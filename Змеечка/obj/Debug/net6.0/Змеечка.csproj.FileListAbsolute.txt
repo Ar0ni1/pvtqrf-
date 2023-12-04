@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\Змеечка\Змеечка\bin\Debug\net6.0\Змеечка.exe
+C:\Users\пк\Desktop\Змеечка\Змеечка\bin\Debug\net6.0\Змеечка.deps.json
+C:\Users\пк\Desktop\Змеечка\Змеечка\bin\Debug\net6.0\Змеечка.runtimeconfig.json
+C:\Users\пк\Desktop\Змеечка\Змеечка\bin\Debug\net6.0\Змеечка.dll
+C:\Users\пк\Desktop\Змеечка\Змеечка\bin\Debug\net6.0\Змеечка.pdb
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.AssemblyInfo.cs
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.dll
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\refint\Змеечка.dll
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.pdb
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\Змеечка.genruntimeconfig.cache
+C:\Users\пк\Desktop\Змеечка\Змеечка\obj\Debug\net6.0\ref\Змеечка.dll
